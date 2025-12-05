@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a01",
+    "title": "My Morning Routine",
+    "english_sentences": [
+      "I wake up at seven o'clock.",
+      "I brush my teeth and wash my face.",
+      "Then I eat breakfast with my family."
+    ],
+    "chinese_sentences": [
+      "我在七點起床。",
+      "我刷牙洗臉。",
+      "然後和家人一起吃早餐。"
+    ]
+  },
+  {
+    "id": "a02",
+    "title": "At the Library",
+    "english_sentences": [
+      "I go to the library every weekend.",
+      "I like to read English storybooks.",
+      "Sometimes I listen to audiobooks too."
+    ],
+    "chinese_sentences": [
+      "我每個週末都會去圖書館。",
+      "我喜歡讀英文故事書。",
+      "有時候我也會聽有聲書。"
+    ]
+  }
+]
