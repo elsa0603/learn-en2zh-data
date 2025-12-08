@@ -5,6 +5,21 @@
     "english": "I wake up and make a cup of coffee.",
     "level": "初級",
     "category": "生活"
+  },
+  {
+    "id": 2,
+    "title": "My Trip to Japan",
+    "english": "Last year, I traveled to Japan with my family.",
+    "level": "中級",
+    "category": "旅遊"
+  },
+  {
+    "id": 3,
+    "title": "Street Food",
+    "english": "I love trying different street food in night markets.",
+    "level": "初級",
+    "category": "飲食"
   }
+
 ]
 
